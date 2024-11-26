@@ -31,6 +31,7 @@ bash
 Copy code
 git clone https://github.com/yourusername/expense_tracker_django.git
 cd expense_tracker_django
+
 2. Create a Virtual Environment
 bash
 Copy code
@@ -47,18 +48,22 @@ source venv/bin/activate
 
 # For Windows
 venv\Scripts\activate
+
 4. Install Project Dependencies
 bash
 Copy code
 pip install -r requirements.txt
+
 5. Apply Database Migrations
 bash
 Copy code
 python manage.py makemigrations
 python manage.py migrate
+
 6. Run the Development Server
 bash
 Copy code
 python manage.py runserver
+
 7. Open the Application in Your Browser
 Visit: http://127.0.0.1:8000/
