@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/e48407ec-d64a-4416-ad2e-a9459a9068af)# expense_tracker_django
+# expense_tracker_django
 Expense Tracker
 An Expense Tracker web application built using Python, Django, Bootstrap, and SQLite. This project allows users to register, log in, and track their expenses by adding or subtracting amounts as needed.
 
