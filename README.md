@@ -10,7 +10,7 @@ An Expense Tracker web application built using Python, Django, Bootstrap, and SQ
 ![5](https://github.com/user-attachments/assets/4e5be9ab-9000-40ef-818b-56b4f973fa10)
 ![7](https://github.com/user-attachments/assets/7ed4bd15-9095-4437-8dbd-f8b826636696)
 ![8](https://github.com/user-attachments/assets/8e67e6a9-03be-4730-b04c-231f633e2672)
-
+![9](https://github.com/user-attachments/assets/d3108e31-49ff-4ce6-8211-a18565074abc)
 
 Features
 User Authentication: Register, login, and logout functionality.
