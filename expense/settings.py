@@ -77,6 +77,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
+        # 'OPTIONS': {
+        #     'timeout': 20,  # Wait 20 seconds for the database lock
+        # },
     }
 }
 
@@ -100,6 +103,7 @@ DATABASES = {
 #         'PORT': '3306',
 #     }
 # }
+
 
 
 
@@ -148,3 +152,8 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+
+
+# settings.py
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+DEFAULT_FROM_EMAIL = 'webmaster@localhost'
