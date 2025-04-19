@@ -1,8 +1,8 @@
-# expense_tracker_django
+## expense_tracker_django
 Expense Tracker
 An Expense Tracker web application built using Python, Django, Bootstrap, and SQLite. This project allows users to register, log in, and track their expenses by adding or subtracting amounts as needed.
 
-#screenshots
+## screenshots
 ![1](https://github.com/user-attachments/assets/eef1601d-1035-4449-a2f7-35f56752ac16)
 ![2](https://github.com/user-attachments/assets/14a50b0c-fd29-4236-aa3b-45e7e9a1c169)
 ![3](https://github.com/user-attachments/assets/92e9304d-757e-4299-8fb9-6b14cbca869d)
@@ -35,18 +35,18 @@ cd expense_tracker_django
 2. Create a Virtual Environment
 bash
 Copy code
-# For Linux/Mac
+## For Linux/Mac
 python3 -m venv venv
 
-# For Windows
+## For Windows
 python -m venv venv
 3. Activate the Virtual Environment
 bash
 Copy code
-# For Linux/Mac
+## For Linux/Mac
 source venv/bin/activate
 
-# For Windows
+## For Windows
 venv\Scripts\activate
 
 4. Install Project Dependencies
